@@ -6,9 +6,9 @@ In this section, describe the analysis you completed for the machine learning mo
 
 * The purpose of this analysis is to predict risky loans.
 * The inputs to this include loan size, interes rate, borrower income, debt-to-income ratio and total debt.
-* Provide basic information about the variables you were trying to predict (e.g., `value_counts`).
-* Describe the stages of the machine learning process you went through as part of this analysis.
-* Briefly touch on any methods you used (e.g., `LogisticRegression`, or any resampling method).
+* In the dataset provided, there were 2,500 risky loans and approx. 75,000 healthy loans.
+* The stages of the analysis involved loading the data, analysing the dataset, splitting the data into a testing and training dataset, running models and oversampling.
+* Models used were Logistic Regression and Random Oversampling..
 
 ## Results
 
